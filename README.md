@@ -1,2 +1,2 @@
-# Trip-planner
+# TripMate
 A trip planning platform.
